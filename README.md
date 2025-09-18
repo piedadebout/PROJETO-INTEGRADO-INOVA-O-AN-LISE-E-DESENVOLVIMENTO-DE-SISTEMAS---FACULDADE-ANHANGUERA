@@ -1,3 +1,12 @@
+Este projeto foi desenvolvido a pedido da instituição Anhanguera, como parte da graduação em Tecnólogo em Análise e Desenvolvimento de Sistemas que estou realizando.
+
+A proposta do sistema era criar uma solução para atendimento na área da saúde, permitindo gerenciar pacientes, consultas, horários e filas de atendimento de forma prática e intuitiva.
+
+O desenvolvimento do projeto foi baseado nos conhecimentos adquiridos tanto na instituição quanto em cursos complementares, como Curso do Guanabara e Udemy.
+
+Reconheço que ainda há muitas melhorias possíveis, especialmente em termos de funcionalidades, interface e organização do código. No entanto, devido a limitações de tempo e dedicação, optei por disponibilizar esta versão como pública, para que qualquer pessoa interessada possa visualizar, estudar ou utilizar o sistema.
+
+
 🏥 Sistema de Gestão de Clínica – Clínica Mais Saúde
 Sistema em Python para gerenciamento completo de pacientes, consultas e controle de atendimento em uma clínica.
 Permite cadastrar pacientes, agendar consultas, controlar fila e administrar horários de forma prática e intuitiva.
