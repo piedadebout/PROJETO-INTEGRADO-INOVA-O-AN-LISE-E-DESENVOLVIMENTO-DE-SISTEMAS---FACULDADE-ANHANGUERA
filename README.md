@@ -1,10 +1,8 @@
-**🏥 Sistema de Gestão de Clínica – Clínica Mais Saúde
-**
+🏥 Sistema de Gestão de Clínica – Clínica Mais Saúde
 Sistema em Python para gerenciamento completo de pacientes, consultas e controle de atendimento em uma clínica.
 Permite cadastrar pacientes, agendar consultas, controlar fila e administrar horários de forma prática e intuitiva.
 
-**🎯 Funcionalidades
-**
+🎯 Funcionalidades
 Cadastro de pacientes com validação de idade, telefone, documentos e pagamentos.
 
 Agendamento de consultas com horários disponíveis exibidos automaticamente.
@@ -17,8 +15,8 @@ Administração de horários com senha de administrador.
 
 Estatísticas sobre pacientes cadastrados (idade média, paciente mais novo/velho).
 
-**📋 Menu do Sistema
-**
+📋 Menu do Sistema
+
 === SISTEMA CLÍNICA MAIS SAÚDE ===
 1. Cadastrar Paciente
 2. Ver estatísticas
@@ -32,8 +30,8 @@ Estatísticas sobre pacientes cadastrados (idade média, paciente mais novo/velh
 10. Organizar fila de atendimento
 11. Sair
 
-**🖥️ Exemplo de Uso
-**
+🖥️ Exemplo de Uso
+
 Cadastro de Paciente
 === CADASTRAR PACIENTE ===
 Nome: João Silva
@@ -81,14 +79,14 @@ Pacientes restantes na fila:
 Maria Oliveira - CPF: 98765432100
 
 
-**💻 Tecnologias Utilizadas
-**
+💻 Tecnologias Utilizadas
+
 Python 3
 
 Biblioteca padrão: re para validação de entradas (horário, CPF, etc.)
 
-**🚀 Como Rodar o Sistema
-**
+🚀 Como Rodar o Sistema
+
 Clone o repositório:
 1.Clone o repositório:
 git clone https://github.com/seuusuario/clinica-mais-saude.git
@@ -99,8 +97,8 @@ python clinica.py
 
 Substitua clinica.py pelo nome do arquivo do seu sistema.
 
-**🔑 Senha de Administrador
-**
+🔑 Senha de Administrador
+
 Para adicionar novos horários: admin123
 
 clinica-mais-saude/
@@ -117,8 +115,8 @@ Paciente mais novo
 
 Paciente mais velho
 
-**📂 Estrutura do Projeto
-**
+📂 Estrutura do Projeto
+
 clinica-mais-saude/
 │
 ├─ clinica.py           # Código principal do sistema
